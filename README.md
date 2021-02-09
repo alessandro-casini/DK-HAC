@@ -1,15 +1,15 @@
 ## DK-HAC: *D*ouble *K*ernel *H*eteroskedasticity and *A*utocorrelation *C*onsisstent Estimator/Standard Errors 
 
-A set of functions implementing the DK-HAC covariance matrix estimators/standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf) and [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). 
+A set of functions implementing the DK-HAC covariance matrix estimators/standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf) and [Casini and Perron (2021b)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). 
 
 The DK-HAC estimator extends the [Newey-West's (1987, 1994)](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator) and [Andrews' (1991)](https://www.jstor.org/stable/2938229?seq=1) HAC estimators to account flexibly for nonstationarity (i.e., breaks, time-varying parameters/volatility, regime swicthing, misspecification, outliers, etc.).
 
 The software includes ordinary functions for regression analysis with robust (DK-HAC) standard errors including t-test, F-test, standard errors, R-squared and for other popular regression output results.
 
 The software includes also the following tools:
-* Data-dependent methods for the choice of the number of lagged autocovariances as developed in [Casini (2021)](https://alessandro-casini.com/wp content/uploads/2021/03/CASINI_HAC.pdf) and [Belotti et al.](https://alessandro-casini.com/research/). 
-* Prewhitening procedure as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
-* Pre-test for nonstationarity to improve finite-sample performance as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf).
+* Data-dependent methods for the choice of the number of lagged autocovariances as developed in [Casini (2021)](https://alessandro-casini.com/wp content/uploads/2021/03/CASINI_HAC.pdf) and [Belotti et al. (2021)](https://alessandro-casini.com/research/). 
+* Prewhitening procedure as developed in [Casini and Perron (2021b)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
+* Pre-test for nonstationarity to improve finite-sample performance as developed in [Casini and Perron (2021a)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf).
 
 ## Non-Technical Summary for Empirical Research
 In preparation.
