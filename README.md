@@ -4,7 +4,7 @@ A set of functions implementing the DK-HAC covariance matrix estimators/standard
 
 The DK-HAC estimator extends the [Newey-West's (1987, 1994)](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator) and [Andrews' (1991)](https://www.jstor.org/stable/2938229?seq=1) HAC estimators to account flexibly for nonstationarity (i.e., breaks, time-varying parameters/volatility, regime swicthing, misspecification, outliers, etc.).
 
-The software includes 
+The software includes ordinary functions for regression analysis with robust (DK-HAC) standard errors including t-test, F-test, standard errors, R-squared and other popular regression output results.
 
 
 
