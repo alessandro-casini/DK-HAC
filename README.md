@@ -4,40 +4,13 @@ A set of functions implementing the DK-HAC covariance matrix estimators/standard
 
 The DK-HAC estimator extends the [Newey-West's (1987, 1994)](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator) and [Andrews' (1991)](https://www.jstor.org/stable/2938229?seq=1) HAC estimators to account flexibly for nonstationarity (i.e., breaks, time-varying parameters/volatility, regime swicthing, misspecification, outliers, etc.).
 
-The software includes ordinary functions for regression analysis with robust (DK-HAC) standard errors including t-test, F-test, standard errors, R-squared and other popular regression output results.
+The software includes ordinary functions for regression analysis with robust (DK-HAC) standard errors including t-test, F-test, standard errors, R-squared and for other popular regression output results.
 
+The software includes also the following tools:
+* Data-dependent methods for the choice of the number of lagged autocovariances as developed in [Casini (2021)](https://alessandro-casini.com/wp content/uploads/2021/03/CASINI_HAC.pdf) and [Belotti et al.](https://alessandro-casini.com/research/). 
+* Prewhitening procedure as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
+* Pre-test for nonstationarity to improve finite-sample performance as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf).
 
-
-[Belotti et al.](https://alessandro-casini.com/research/)
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alessandro-casini/DK-HAC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Contributors
 * [Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico), University of Rome Tor Vergata.
@@ -50,4 +23,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 * Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings". arXiv preprint arXiv 
 * Casini, A. (2019), ["Improved Methods for Statistical Inference in the Context Various Type of Parameter Variation"](https://open.bu.edu/handle/2144/38750). Ph.D Dissertation, Boston University.
 * Casini, A. (2021), ["Theory of Evolutionary Spectra for Heteroskedasticity and Autocorrelation Robust Inference in Possibly Misspecified and Nonstationary Models"](https://alessandro-casini.com/research/). arXiv preprint arXiv.
-* Casini, A. and P. Perron (2021), "Change-Point Analysis of Time Series with Evolutionary Spectra". arXiv preprint arXiv 
+* Casini, A. and P. Perron (2021a), ["Change-Point Analysis of Time Series with Evolutionary Spectra"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf). arXiv preprint arXiv 
+* Casini, A. and P. Perron (2021b), ["Minimax MSE Bounds and Nonlinear VAR Prewhitening for Long-Run Variance Estimation Under Nonstationarity"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). arXiv preprint arXiv 
+
+
