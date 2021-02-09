@@ -34,4 +34,7 @@ In preparation.
 * Casini, A. and P. Perron (2021a), ["Change-Point Analysis of Time Series with Evolutionary Spectra"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf). arXiv preprint arXiv 
 * Casini, A. and P. Perron (2021b), ["Minimax MSE Bounds and Nonlinear VAR Prewhitening for Long-Run Variance Estimation Under Nonstationarity"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). arXiv preprint arXiv 
 
+## Maintaner and Correspondence
+* [Alessandro Casini](https://alessandro-casini.com), University of Rome Tor Vergata.
+
 
