@@ -1,6 +1,9 @@
 ## DK-HAC: *D*ouble *K*ernel *H*eteroskedasticity and *A*utocorrelation *C*onsisstent Estimator/Standard Errors 
 
-A set of functions implementing the DK-HAC covariance matrix estimators/standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf), [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
+A set of functions implementing the DK-HAC covariance matrix estimators/standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf), [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). 
+The DK-HAC estimator extends the Newey-West (1987, 1994) and Andrews HAC estimators to account flexibly for nonstationarity (i.e., breaks, time-varying parameters/volatility, regime swicthing, misspecification, outliers, etc.).
+
+
 
 [Belotti et al.](https://alessandro-casini.com/research/)
 
