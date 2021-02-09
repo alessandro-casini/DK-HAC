@@ -1,8 +1,9 @@
-## DK-HAC: Double Kernel Heteroskedasticity and Autocorrelation Estimator/Standard Errors 
+## DK-HAC: *D*ouble *K*ernel *H*eteroskedasticity and *A*utocorrelation *C*onsisstent Estimator/Standard Errors 
 
-You can use the [editor on GitHub](https://github.com/alessandro-casini/DK-HAC/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A set of functions implementing the DK-HAC covariance matrix estimators/standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf), [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Belotti et al.](https://alessandro-casini.com/research/)
+
 
 ### Markdown
 
@@ -32,6 +33,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alessandro-casini/DK-HAC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Contributors
+* [Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico), University of Rome Tor Vergata.
+* [Alessandro Casini](https://alessandro-casini.com), University of Rome Tor Vergata.
+* [Leopoldo Catania](https://pure.au.dk/portal/en/persons/id(5d29f2ff-3942-4a3d-a74d-006b55ae3836).html), Aarhus University.
+* [Stefano Grassi](https://economia.uniroma2.it/faculty/412/grassi-stefano), University of Rome Tor Vergata.
+* [Pierre Perron](http://blogs.bu.edu/perron/), Boston University.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Background Papers
+* Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings". arXiv preprint arXiv 
+* Casini, A. (2019), ["Improved Methods for Statistical Inference in the Context Various Type of Parameter Variation"](https://open.bu.edu/handle/2144/38750). Ph.D Dissertation, Boston University.
+* Casini, A. (2021), ["Theory of Evolutionary Spectra for Heteroskedasticity and Autocorrelation Robust Inference in Possibly Misspecified and Nonstationary Models"](https://alessandro-casini.com/research/). arXiv preprint arXiv.
+* Casini, A. and P. Perron (2021), "Change-Point Analysis of Time Series with Evolutionary Spectra". arXiv preprint arXiv 
