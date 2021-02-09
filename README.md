@@ -1,4 +1,4 @@
-## DK-HAC: *D*ouble *K*ernel *H*eteroskedasticity and *A*utocorrelation *C*onsisstent Estimator/Standard Errors 
+## `DK-HAC`: *D*ouble `K`ernel `H`eteroskedasticity and `A`utocorrelation `C`onsisstent Estimator/Standard Errors 
 
 A set of functions implementing the DK-HAC covariance matrix estimators/standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf), [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
 
