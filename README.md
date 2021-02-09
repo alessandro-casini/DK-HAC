@@ -16,7 +16,7 @@ In preparation.
 
 ## Software available in Matlab, R and Stata
 
-* [Matlab Package](https://github.com/alessandro-casini/Change-Point_All-Inside.github.io/blob/main/All-Inside_Matlab.rar)
+* Matlab Package (to be uploaded later)
 * R Package (to be uploaded later)
 * Stata Package (to be uploaded later)
 
