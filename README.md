@@ -34,6 +34,7 @@ In preparation.
 * Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings". arXiv preprint arXiv 
 * Casini, A. (2019), ["Improved Methods for Statistical Inference in the Context Various Type of Parameter Variation"](https://open.bu.edu/handle/2144/38750). Ph.D Dissertation, Boston University.
 * Casini, A. (2021), ["Theory of Evolutionary Spectra for Heteroskedasticity and Autocorrelation Robust Inference in Possibly Misspecified and Nonstationary Models"](https://alessandro-casini.com/research/). arXiv preprint arXiv.
+* Casini, A. and P. Perron (2021a), ["Theory of Low Frequency Contamination from Nonstationarity and Misspecification: Consequences for HAR Inference"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_et_al_Low_Freq_Contamination_HAR.pdf). arXiv preprint arXiv 
 * Casini, A. and P. Perron (2021a), ["Change-Point Analysis of Time Series with Evolutionary Spectra"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf). arXiv preprint arXiv 
 * Casini, A. and P. Perron (2021b), ["Minimax MSE Bounds and Nonlinear VAR Prewhitening for Long-Run Variance Estimation Under Nonstationarity"](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). arXiv preprint arXiv 
 
