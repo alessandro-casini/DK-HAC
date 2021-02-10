@@ -1,4 +1,4 @@
-## DK-HAC: *D*ouble *K*ernel *H*eteroskedasticity and *A*utocorrelation *C*onsisstent Estimator/Standard Errors 
+## *D*ouble *K*ernel *H*eteroskedasticity and *A*utocorrelation *C*onsisstent Estimator/Standard Errors 
 
 **Keywords:** HAC, DK-HAC, Robust Standard Errors, HAR, Long-run variance, Prewhitening, Covariance Matrix.
 
