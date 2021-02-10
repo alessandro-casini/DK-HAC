@@ -9,7 +9,7 @@ The DK-HAC estimator extends the [Newey-West's (1987, 1994)](https://en.wikipedi
 The software includes ordinary functions for regression analysis with robust (DK-HAC) standard errors including t-test, F-test, standard errors, R-squared and other popular regression outputs.
 
 The software includes also the following tools:
-* Data-dependent methods for the choice of the number of lagged autocovariances as developed in [Casini (2021)](https://alessandro-casini.com/wp content/uploads/2021/03/CASINI_HAC.pdf) and [Belotti et al. (2021)](https://alessandro-casini.com/research/). 
+* Data-dependent methods for the choice of the number of lagged autocovariances as developed in [Belotti et al. (2021)](https://alessandro-casini.com/research/) and [Casini (2021)](https://alessandro-casini.com/wp content/uploads/2021/03/CASINI_HAC.pdf).
 * Prewhitening procedure as developed in [Casini and Perron (2021b)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf).
 * Pre-test for nonstationarity to improve finite-sample performance as developed in [Casini and Perron (2021a)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf).
 
