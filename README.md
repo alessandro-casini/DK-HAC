@@ -4,7 +4,7 @@
 
 This software implements the DK-HAC covariance matrix estimators and robust standard errors from [Casini (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_HAC.pdf) and [Casini and Perron (2021b)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_DKHAC_Prewhitening.pdf). 
 
-The DK-HAC estimator extends the [Newey-West's (1987, 1994)](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator) and [Andrews' (1991)](https://www.jstor.org/stable/2938229?seq=1) HAC estimators to account flexibly for nonstationarity (i.e., breaks, time-varying parameters/volatility, regime swicthing, misspecification, outliers, etc.). See [Casini et al. (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_et_al_Low_Freq_Contamination_HAR.pdf) for a tecnical comparison.  
+The DK-HAC estimator extends the [Newey-West's (1987, 1994)](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator) and [Andrews' (1991)](https://www.jstor.org/stable/2938229?seq=1) HAC estimators to flexibly account for nonstationarity (e.g., breaks, time-varying parameters/volatility, regime swicthing, misspecification, outliers, etc.). See [Casini et al. (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_et_al_Low_Freq_Contamination_HAR.pdf) for a technical comparison.  
 
 The software includes ordinary functions for regression analysis with robust (DK-HAC) standard errors including t-test, F-test, standard errors, R-squared and other popular regression outputs.
 
